@@ -1,11 +1,11 @@
 # compiled source #
 ###################
-*.com
-*.class
-*.dll
-*.exe
-*.o
-*.so
+# *.com
+# *.class
+# *.dll
+# *.exe
+# *.o
+# *.so
 
 # packages #
 ############
@@ -22,6 +22,7 @@
 
 # logs and databases #
 ######################
+**/*.__wz_cache
 *.log
 # *.sql
 # *.sqlite
@@ -39,3 +40,8 @@ Thumbs.db
 # Video formats #
 #################
 *.mp4
+
+# misc #
+########
+.idea
+*_files*
