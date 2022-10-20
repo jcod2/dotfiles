@@ -2,3 +2,6 @@ global git ignore
 git config --global core.excludesfile ~/.gitignore_global
 
 
+Clone year2 repos
+git clone https://github.com/jcod2/cs2208.git && git clone https://github.com/jcod2/cs2502.git && git clone https://github.com/jcod2/cs2503.git && git clone https://github.com/jcod2/cs2507.git && git clone https://github.com/jcod2/cs2513.git && git clone https://github.com/jcod2/cs2515.git
+
